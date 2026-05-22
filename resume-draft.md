@@ -27,3 +27,9 @@ I'm keen to start Binary Studio Academy web-dev adventure to turn that mindset i
 - Organic synthesis for drug discovery projects  
 - Developed strong lab execution and problem-solving skills 
 - Contributed to projects that require attention to detail
+
+## Hobbies
+
+- Guitar - self-learned, pretty good at it
+- Different sports activities
+- Car repair - fixing things is really satisfying
