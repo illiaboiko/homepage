@@ -13,3 +13,17 @@ I'm keen to start Binary Studio Academy web-dev adventure to turn that mindset i
 - Phone: +380962331544
 - LinkedIn: linkedin.com/in/illia-boiko-a03454132 
 - Telegram: @illiaboiko
+
+## Timeline
+
+**Account / Sales Manager — CRO (Drug Discovery Services)**  
+*2020 – 2026*  
+- Managed client communication across biotech/pharma accounts  
+- Coordinated cross-functional project delivery (chemistry, quoting, execution)  
+- Built internal Excel/VBA tools to streamline workflows and reporting
+
+**Synthetic Chemist — Drug Discovery CRO**  
+*2017 – 2020*  
+- Organic synthesis for drug discovery projects  
+- Developed strong lab execution and problem-solving skills 
+- Contributed to projects that require attention to detail
